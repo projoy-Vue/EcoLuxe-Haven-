@@ -1,0 +1,14 @@
+@import './base.css';
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+  --header-rgb: 0, 0, 0;
+  --link-rgb: 0, 0, 0;
+}
+
+#app {
+  margin: 0 auto;
+  color: #000;
+}
